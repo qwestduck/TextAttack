@@ -42,3 +42,4 @@ from .clare_li_2020 import CLARE2020
 from .french_recipe import FrenchRecipe
 from .spanish_recipe import SpanishRecipe
 from .chinese_recipe import ChineseRecipe
+from .hard_label_maheshwary_2021 import HardLabelMaheshwary2021
